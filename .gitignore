@@ -1,0 +1,25 @@
+# Stupid Finder files
+.DS_Store
+
+# PyCharm IDEA files
+*.idea
+*.iml
+
+#VS Code files
+*.vscode
+
+# Default generated files
+default.*
+
+*.pyc
+
+unzip_requirements.zip
+unzip_requirements.py
+.requirements.zip
+
+*.log
+*.icloud
+
+.env
+cover/
+.coverage
